@@ -1,4 +1,4 @@
-package com.dayo.bookreview.bookreview;
+package com.dayo.webapp.bookreview;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
